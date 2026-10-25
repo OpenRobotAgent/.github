@@ -17,10 +17,6 @@
 
 ---
 
-<table>
-<tr>
-<td width="63%" valign="middle">
-
 ### 从理解，到行动，再到验证
 
 **Open Robot Agent（ORA）** 探索如何将通用多模态 Agent 的推理与软件工具能力延伸到机器人所处的物理世界。
@@ -30,16 +26,6 @@
 - **通用智能**：将场景理解、空间推理、操作判断与长程规划联系起来。
 - **可信执行**：由 Harness 连接模型与机器人；物理约束、安全和运动控制由可信执行系统负责。
 - **真实反馈**：通过真实观测与执行证据核对行动结果，并据此调整下一步决策。
-
-</td>
-<td width="37%" valign="middle">
-<a href="https://openrobotagent.github.io/#progress">
-<img src="https://raw.githubusercontent.com/OpenRobotAgent/openrobotagent.github.io/main/assets/robot-interaction.webp" alt="原创概念插画：机械臂与物理环境交互" width="360"/>
-</a>
-<sub>原创概念插画，并非真实机器人实验画面。</sub>
-</td>
-</tr>
-</table>
 
 **长期方向**：可信机器人交互 → 可验证的真实经验 → 更通用的物理智能。
 
