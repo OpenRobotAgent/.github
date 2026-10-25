@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://openrobotagent.github.io/" title="Open Robot Agent 项目主页">
-  <img src="https://raw.githubusercontent.com/OpenRobotAgent/openrobotagent.github.io/main/assets/ora-brand-banner.webp" width="100%" alt="ORA 完整品牌横幅：Open Robot Agent，面向物理世界的通用机器人智能体。"/>
+  <img src="https://raw.githubusercontent.com/OpenRobotAgent/openrobotagent.github.io/main/assets/ora-brand-banner.svg" width="100%" alt="ORA 高清品牌横幅：机械臂场景背景与清晰的 SVG 中英文矢量文字。"/>
 </a>
 
 # Open Robot Agent
